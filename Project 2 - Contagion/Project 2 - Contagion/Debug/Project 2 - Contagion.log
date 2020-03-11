@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\atrex\desktop\project 2 - contagion\project 2 - contagion\main.cpp(131): warning C4715: 'getValueAt': not all control paths return a value
+  Project 2 - Contagion.vcxproj -> C:\Users\atrex\Desktop\Project 2 - Contagion\Debug\Project 2 - Contagion.exe
